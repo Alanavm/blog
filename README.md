@@ -1,2 +1,2 @@
-# blog
-testblog
+# SHUPS
+Initialisation
