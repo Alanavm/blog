@@ -29,7 +29,7 @@
 	display: block;
 	color: lightgreen;
 	text-align: center;
-	padding: 14px 4px;
+	padding: 14px 5px;
 	text-decoration: none;
 }
 
@@ -43,5 +43,11 @@
 	float:left;
 	width: auto;
     height: auto;
+}
+.column {
+  float: center;
+  overflow: hidden;
+  width:  100%;
+  background-color: #DDDDDD;
 }
 
